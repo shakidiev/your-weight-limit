@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	display: flex;
+	justify-content: space-around;
+	font-size: 16px;
+}
+
+.block1 {
+	width: 100px;
+	height: 100px;
+  border: solid 3px silver;
+  box-sizing: border-box;
+  font-size: 25px;
+  background-color: #EA5152;
+
+}
